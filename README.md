@@ -34,7 +34,7 @@ When running, there is a chance there would be some problems with the version of
 
 Also when running, interpretator can show messages like ```Warning: Version mismatch with binary: 'SDL3_net.dll' (expected: 3.0.0, got: none)```. It is safe to not care about this, program will start regardless.
 
-The snake is pretty much immortal, since there is no logic of it's death, so you can play endlessly. I thought it much more fun than dying.
+The snake is pretty much immortal, since there is no logic of it's death, so you can play endlessly. I thought its much more fun than dying.
 
 Write, contribute, test. It's all will be appreciated anytime.
 
